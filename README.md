@@ -4,9 +4,11 @@ Um glossário de Git escrito por quem está aprendendo a usá-lo.
 
 ## Dupla (ou trio)
 
-João Pedro Santos Alves - joaopedroalves-alt
-Yago Armond Oliveira - yondaime444ar
-Caio Fernandes Borges - CaioborgesIFTM
+João Pedro Santos Alves - joaopedroalves-alt.
+
+Yago Armond Oliveira - yondaime444ar.
+
+Caio Fernandes Borges - CaioborgesIFTM.
 
 ## Como contribuir
 
