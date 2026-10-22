@@ -1,5 +1,5 @@
 # merge
 
-Merge é o processo de combinar o trabalho realizado em branches diferentes, permitindo reunir contribuições em uma única linha de desenvolvimento.
+Merge é a operação que integra alterações de branches diferentes, reunindo contribuições em uma única linha de desenvolvimento e combinando seus históricos.
 
-Exemplo: `git merge caio` integra as alterações da branch caio à branch atual.
+Exemplo: `git merge main` integra as alterações da branch main à branch atual.
