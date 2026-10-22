@@ -1,5 +1,5 @@
 # index
 
-É a área em que o Git registra as alterações que foram preparadas para o próximo commit. Ela funciona como uma etapa intermediária entre modificar os arquivos e criar o commit.
+O index é a área que registra as alterações preparadas para o próximo commit. Ele permite selecionar quais mudanças serão incluídas.
 
-Exemplo: `git add arquivo.txt` coloca as alterações de `arquivo.txt` no index.
+Exemplo: `git add glossario/index.md` adiciona esse arquivo ao index para o próximo commit.
